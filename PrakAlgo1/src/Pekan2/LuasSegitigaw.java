@@ -17,6 +17,7 @@ public class LuasSegitigaw {
         System.out.println("Luas Segitiga adalah: "	+luas);
 
         
+        
 	}
 
 }
