@@ -32,7 +32,7 @@ public class OperasiRelasional {
      System.out.println("A1 ! = A2 = " +hasil);
     		 
      
-    
+   
      
      
 	}
