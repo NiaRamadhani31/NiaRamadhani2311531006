@@ -31,7 +31,7 @@ public class OperatorAritmatika {
 		System.out.println("Hasil = " + hasil);
 
 		
-		
+	
 		
 	}
 
