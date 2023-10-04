@@ -13,8 +13,12 @@ public class OperatorLogika {
 		System.out.println("true and false + "+c );
 		System.out.println("Disjungsi"); 
 		c= A1||A2;
-		System.out.println();
+		System.out.println("true and false = "+c);
+		System.out.println("Negasi");
+		c= !A1;
+		System.out.println("bukan true = "+c);
 				
+		
 				}
 
 }
