@@ -18,8 +18,7 @@ public class OperatorLogika {
 		c= !A1;
 		System.out.println("bukan true = "+c);
 				
-		
-		
+
 		
 		
 		
