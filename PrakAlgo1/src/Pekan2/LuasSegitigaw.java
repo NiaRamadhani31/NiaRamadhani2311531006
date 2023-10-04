@@ -16,6 +16,7 @@ public class LuasSegitigaw {
         luas=0.5*alas*tinggi;
         System.out.println("Luas Segitiga adalah: "	+luas);
 
+        
 	}
 
 }

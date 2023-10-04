@@ -30,6 +30,7 @@ public class OperatorAritmatika {
 		hasil = A1 % A2; // modulus
 		System.out.println("Hasil = " + hasil);
 
+		
 	}
 
 }
