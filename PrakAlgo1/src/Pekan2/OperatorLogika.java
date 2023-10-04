@@ -19,6 +19,11 @@ public class OperatorLogika {
 		System.out.println("bukan true = "+c);
 				
 		
+		
+		
+		
+		
+		
 				}
 
 }
