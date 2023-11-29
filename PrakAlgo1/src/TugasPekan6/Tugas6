@@ -1,0 +1,31 @@
+package prak6rabu;
+
+import java.util.Scanner;
+
+public class TugasPekan6 {
+
+	public static void main(String[] args) {
+		int n,a,i ;
+		String m = "_";
+		Scanner input = new Scanner(System.in);
+		System.out.println("input : ");
+		n = input.nextInt();
+		System.out.println("output : ");
+		for (i = 1; i <= n; i ++) {
+			boolean ganjil = i % 2 != 0;
+			if (ganjil) {
+				a = n / 2 + 1;
+				for (int j = 1; j <= a; j++) {
+					System.out.print(m+" ");
+				}
+				System.out.println();
+			}else {
+				a = n / 2;
+				for (int j = 1; j <= a; j++) {
+					System.out.print(" "+m);
+				}
+				System.out.println();				
+			}			
+		}
+	}
+}
